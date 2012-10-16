@@ -1,0 +1,16 @@
+p.red {
+  color: red;
+}
+p.brown {
+  color: brown;
+}
+p.blue {
+  color: blue;
+}
+#c1 {
+  color: green;
+}
+.error {
+  color: red;
+  font-size: x-large;
+}
